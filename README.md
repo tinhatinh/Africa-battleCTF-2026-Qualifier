@@ -8,6 +8,7 @@ Writeups for the challenges I solved during **Africa battleCTF 2026 Qualifier** 
 | OT#004 | OT | 144 | [OT004.md](OT004.md) |
 | VULN#007 | Vuln Research | 100 | [VULN007.md](VULN007.md) |
 | PWN#Zeta | Pwn | 130 | [PWNZETA.md](PWNZETA.md) |
+| PWN#007 | Pwn | 142 | [PWN007.md](PWN007.md) |
 
 \* Points at solve time. The platform uses dynamic scoring, so the values shown on the scoreboard have decayed since.
 
