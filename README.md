@@ -2,7 +2,6 @@
 
 Writeups for the challenges I solved during **Africa battleCTF 2026 Qualifier** (ctf.bugpwn.com, 2026-10-04 23:00 UTC → 2026-11-04 23:00 UTC).
 
-37 of the 38 solves have a writeup here, grouped by category.
 
 ## out context
 
