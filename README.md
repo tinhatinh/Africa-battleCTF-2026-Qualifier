@@ -65,5 +65,6 @@ Writeups for the challenges I solved during **Africa battleCTF 2026 Qualifier** 
 | OT#002 | OT | 45 | [OT002.md](OT002.md) |
 | OT#003 | OT | 136 | [OT003.md](OT003.md) |
 | OT#004 | OT | 144 | [OT004.md](OT004.md) |
+| OT#007 | OT | 140 | [OT007.md](OT007.md) |
 
 \* Points recorded when the solve was logged. The platform uses dynamic scoring, so the values shown on the scoreboard have decayed since.
