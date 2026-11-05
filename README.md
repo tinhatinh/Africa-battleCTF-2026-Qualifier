@@ -1,7 +1,7 @@
 # Africa battleCTF 2026 Qualifier
 
 Writeups for the challenges I solved during **Africa battleCTF 2026 Qualifier** (ctf.bugpwn.com, 2026-10-04 23:00 UTC → 2026-11-04 23:00 UTC).
-
+CTFtime: https://ctftime.org/event/3462
 
 ## out context
 
