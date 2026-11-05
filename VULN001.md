@@ -147,8 +147,7 @@ CTF{86f07cd3cbf154a2bcec7e77d8334779}
 CTF{86f07cd3cbf154a2bcec7e77d8334779}
 ```
 
-This flag was printed by the service (`exploit-output.txt`), not built from an artifact. No
-submission response was recorded.
+This flag was printed by the service (`exploit-output.txt`), not built from an artifact.
 
 ## Reproduce
 
